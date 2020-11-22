@@ -1,0 +1,25 @@
+body {
+  color: white;
+}
+
+.navbar {
+  padding 1rem;
+}
+.navbar {
+  padding 1rem;
+  background-color: blue;
+}
+
+.btn-orimary:hover {
+  background-color: blue;
+  color: white;
+}
+
+.hero-background-img {
+  background-image: url("Unknown.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+}
